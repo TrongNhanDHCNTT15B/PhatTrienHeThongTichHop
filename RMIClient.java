@@ -13,7 +13,7 @@ public class RMIClient {
             Scanner scanner = new Scanner(System.in);
             for (;;) {
                 System.out.println("----------MENU----------");
-                System.out.println("1. Dem so luong tu tchuoichuoi");
+                System.out.println("1. Dem so luong tu");
                 System.out.println("2. Dao chuoi");
                 System.out.println("Nhap exit trong chuc nang bat ki de thoat");
                 Scanner sccc = new Scanner(System.in);
